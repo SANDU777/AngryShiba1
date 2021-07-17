@@ -1,22 +1,22 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+"GAV66SIBC26U5KIY566WAYOT5CVV3A4IKG5RLUI6BN2SATMPGQQNKOSS"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Gemsociety"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
-ORG_TWITTER="@GEMSOCIETY"
+ORG_NAME="AngryShiba"
+ORG_URL="https://www.AngryShiba.org"
+ORG_DESCRIPTION="The Shiba Inu is a breed of hunting dog from Japan. A small-to-medium breed, it is the smallest of the six original and distinct spitz breeds of dog native"
+ORG_TWITTER="@AngryShiba"
 ORG_LOGO="https://i.ibb.co/cCKyP73/images-1.png"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_OFFICIAL_EMAIL="AngryShiba@gmail.com"
 
 
 [[CURRENCIES]]
 code="AngryShiba"
-issuer="GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+issuer="GAV66SIBC26U5KIY566WAYOT5CVV3A4IKG5RLUI6BN2SATMPGQQNKOSS"
 anchor_asset="false"
 name="Angry Shiba"
 desc="A Decentralized Meme Token that Evolved into a Vibrant Ecosystem
